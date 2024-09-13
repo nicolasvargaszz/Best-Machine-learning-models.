@@ -1,5 +1,5 @@
 # Best-Machine-learning-models.
-Here is a .ipynb file where we can see 10 machine learning models, and they are all used for a analysis and predictions of the dataset that is in this repo, This repo may be usefull because has a good summary for 10 ML models
+Here is a .ipynb file where we can see 10 machine learning models, and they are all used for a analysis and predictions of the dataset that is in this repo, This repo may be usefull because has a good summary for 10 ML models.
 # Machine Learning Models Analysis and Prediction
 
 Welcome to this repository, where we explore **10 different machine learning models** for analyzing and predicting results based on the dataset provided in this project. The models and their implementations are useful for anyone interested in learning how to apply various machine learning algorithms to real-world datasets. This project serves as a valuable reference, offering a clear summary of how these models work and can be used in practice.
